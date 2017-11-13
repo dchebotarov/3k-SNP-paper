@@ -3,7 +3,7 @@
 
 1) Compute frequencies using PLINK
 
-plink --bfile ... --frqx  --out snpdata
+plink --bfile ... --freqx  --out snpdata
 
 2) Create a position file (e.g. from PLINK BIM file)
 in the twwo-column format SNPID POS
